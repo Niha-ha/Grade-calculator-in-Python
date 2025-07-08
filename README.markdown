@@ -1,7 +1,8 @@
-# 🎓 Grade Calculator - Shine with Your Scores! 🎓
+# 🎓 Grade Calculator 🎓
 
 ## 🚀 Overview
-Welcome to the **Grade Calculator**! This awesome Python script (`grade_calculator.py`) transforms your scores into grades with ease. Whether you're a student or a teacher, this tool is your go-to for quick and accurate grading. 🌟
+Welcome to the **Grade Calculator**! This awesome Python script (`Grade Calculator.py`) transforms your scores into grades with ease. Whether you're a student or a teacher, this tool is your go-to for quick and accurate grading. 🌟
+
 
 ## ✨ Features
 - Supports **both integer and floating-point scores** for flexibility.
@@ -40,9 +41,9 @@ Invalid score!!
 - **Python 3.x** (any recent version works!)
 
 ## 👨‍💻 Author
-Crafted with ❤️ by [Your Name or Leave Blank].
+Crafted with ❤️ by Jannatun Nur Niha.
 
 ## 📜 License
-This project is **open-source**. Feel free to tweak, share, and enjoy! 🎁
+This project is **open-source**, made for one of my live test. Feel free to modify, share, and enjoy! 🎁
 
 ---
